@@ -144,7 +144,44 @@ After adding your exported logo, display it here:
 ![CarePoint logo](images/carepoint-logo.png)
 ```
 
+## 11. Design and Testing Checklist
+
+- [ ] Mobile layout created.
+- [ ] Web layout created.
+- [ ] Gestalt principles applied.
+- [ ] UI components and patterns used consistently.
+- [ ] Main interactions documented or prototyped.
+- [ ] Usability and accessibility checked.
+- [ ] Canva logo exported and added to `images/carepoint-logo.png`.
+- [ ] Final mobile and web screenshots added to the `images/` folder.
+- [ ] Lab report exported as PDF.
+
+## 12. Repository Structure
+
+```text
+case-study-layout-design/
+│
+├── README.md
+├── images/
+│   ├── mobile-web-layout-preview.png
+│   ├── gestalt-principles.png
+│   ├── carepoint-logo.png
+│   ├── mobile-layout-final.png
+│   └── web-layout-final.png
+│
+└── report/
+    └── experiment-lab-report.pdf
+```
+
 ## 13. Result
 
 Basic mobile and web layouts were planned for the selected case study. Gestalt principles, common UI elements, design patterns, interaction behaviors, usability guidelines, and branding recommendations were incorporated into the design process.
 
+## 14. Submission
+
+**GitHub Repository:** `PASTE_YOUR_GITHUB_REPOSITORY_URL_HERE`  
+**Lab Report:** Attach `report/experiment-lab-report.pdf` to the submission.
+
+---
+
+**Note:** The preview images in this repository are illustrative references. Replace them with your final design screenshots and add your actual Canva logo and lab report before submitting.
